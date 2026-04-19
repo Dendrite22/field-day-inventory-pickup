@@ -1,0 +1,534 @@
+{
+  "version": "1.0",
+  "app": "Field Day: Inventory Pickup",
+  "purpose": "Plant & Equipment (Contents) Insurance & Financial Reporting Valuation",
+
+  "conditionRatings": [
+    { "value": 0, "label": "Not Present", "rulRemainingPct": 0 },
+    { "value": 1, "label": "As New",       "rulRemainingPct": 100 },
+    { "value": 2, "label": "Good",         "rulRemainingPct": 75 },
+    { "value": 3, "label": "Fair",         "rulRemainingPct": 50 },
+    { "value": 4, "label": "Poor",         "rulRemainingPct": 25 },
+    { "value": 5, "label": "Very Poor",    "rulRemainingPct": 0 }
+  ],
+
+  "unitsOfMeasurement": ["ea", "set", "pair", "lot"],
+
+  "insuranceScheduleCategories": [
+    "Contents",
+    "Plant & Equipment",
+    "Motor Vehicle",
+    "Other"
+  ],
+
+  "defectPriorities": ["Immediate (High)", "High", "Moderate", "Low"],
+
+  "fields": {
+    "identity": [
+      {
+        "key": "uniqueId",
+        "label": "Unique ID",
+        "type": "auto-increment",
+        "startFrom": 100001,
+        "notes": "System generated. Increments across entire portfolio."
+      },
+      {
+        "key": "assetIdClient",
+        "label": "Asset ID (Client)",
+        "type": "text",
+        "source": "import-or-input"
+      }
+    ],
+
+    "location": [
+      {
+        "key": "parentAsset",
+        "label": "Parent Asset",
+        "type": "text",
+        "autofill": true,
+        "source": "import-or-input"
+      },
+      {
+        "key": "address",
+        "label": "Address",
+        "type": "text",
+        "autofill": true,
+        "source": "import-or-input"
+      },
+      {
+        "key": "level",
+        "label": "Level",
+        "type": "text",
+        "autofill": true,
+        "examples": ["Basement", "Ground Floor", "Level 1", "Level 2", "Roof", "External"]
+      },
+      {
+        "key": "subLocation",
+        "label": "Sub Location",
+        "type": "text",
+        "autofill": true,
+        "examples": ["Open Plan", "Board Room", "Reception", "Kitchen", "Store Room", "Manager Office"]
+      },
+      {
+        "key": "gpsCoordinates",
+        "label": "GPS Coordinates",
+        "type": "gps-auto",
+        "notes": "Auto-captured from device on record creation"
+      }
+    ],
+
+    "categoryHierarchy": [
+      { "key": "categoryL1", "label": "Asset Category (L1)", "type": "selection" },
+      { "key": "categoryL2", "label": "Asset Category (L2)", "type": "selection", "dependsOn": "categoryL1" },
+      { "key": "categoryL3", "label": "Asset Category (L3)", "type": "selection", "dependsOn": "categoryL2" },
+      { "key": "categoryL4", "label": "Asset Category (L4)", "type": "selection-or-skip", "dependsOn": "categoryL3", "skipValue": "--" }
+    ],
+
+    "itemAttributes": [
+      {
+        "key": "itemDescription",
+        "label": "Item Description",
+        "type": "text",
+        "notes": "Free-text description of the specific item"
+      },
+      {
+        "key": "make",
+        "label": "Make / Brand",
+        "type": "text",
+        "autofill": true
+      },
+      {
+        "key": "model",
+        "label": "Model",
+        "type": "text"
+      },
+      {
+        "key": "serialNumber",
+        "label": "Serial Number",
+        "type": "text",
+        "notes": "Manufacturer serial — critical for insurance schedules"
+      },
+      {
+        "key": "assetTag",
+        "label": "Asset Tag / Label",
+        "type": "text",
+        "notes": "Client's own asset tag or label number"
+      },
+      {
+        "key": "colourFinish",
+        "label": "Colour / Finish",
+        "type": "text",
+        "autofill": true,
+        "examples": ["Black", "White", "Timber Veneer", "Chrome", "Grey Fabric"]
+      },
+      {
+        "key": "quantity",
+        "label": "Quantity",
+        "type": "number",
+        "inputType": "integer",
+        "required": true
+      },
+      {
+        "key": "unitOfMeasurement",
+        "label": "Unit of Measurement",
+        "type": "selection",
+        "options": ["ea", "set", "pair", "lot"],
+        "default": "ea",
+        "required": true
+      }
+    ],
+
+    "dimensions": [
+      {
+        "key": "widthMm",
+        "label": "Width (mm)",
+        "type": "number",
+        "unit": "mm",
+        "applicableL1": ["Furniture", "Audio Visual", "Appliances & White Goods", "Office Equipment"],
+        "required": false
+      },
+      {
+        "key": "depthMm",
+        "label": "Depth (mm)",
+        "type": "number",
+        "unit": "mm",
+        "applicableL1": ["Furniture", "Audio Visual", "Appliances & White Goods", "Office Equipment"],
+        "required": false
+      },
+      {
+        "key": "heightMm",
+        "label": "Height (mm)",
+        "type": "number",
+        "unit": "mm",
+        "applicableL1": ["Furniture", "Appliances & White Goods", "Office Equipment"],
+        "required": false
+      },
+      {
+        "key": "seatingCapacity",
+        "label": "Seating Capacity (persons)",
+        "type": "number",
+        "unit": "persons",
+        "applicableL2": ["Tables", "Desks & Workstations"],
+        "required": false
+      },
+      {
+        "key": "screenSizeInches",
+        "label": "Screen Size (inches)",
+        "type": "number",
+        "unit": "inches",
+        "applicableL1": ["Information Technology", "Audio Visual"],
+        "applicableL3": ["Monitor / Screen", "Flat Screen TV", "Interactive Whiteboard", "Digital Signage Screen"],
+        "required": false
+      },
+      {
+        "key": "weightKg",
+        "label": "Weight (kg)",
+        "type": "number",
+        "unit": "kg",
+        "applicableL1": ["Vehicles & Motorised Plant", "Fitness & Recreation"],
+        "required": false
+      }
+    ],
+
+    "condition": [
+      {
+        "key": "conditionRating",
+        "label": "Condition Rating (0–5)",
+        "type": "selection",
+        "options": [0, 1, 2, 3, 4, 5],
+        "required": true,
+        "notes": "0 = Not Present. Blank not accepted."
+      },
+      {
+        "key": "conditionLabel",
+        "label": "Condition Rating Label",
+        "type": "derived",
+        "derivedFrom": "conditionRating",
+        "notes": "Auto-set from conditionRating value"
+      }
+    ],
+
+    "photos": [
+      { "key": "photo1", "label": "Photo 1", "type": "camera", "required": false },
+      { "key": "photo2", "label": "Photo 2", "type": "camera", "required": false },
+      { "key": "worksPhoto1", "label": "Works Photo 1", "type": "camera", "enabledWhen": { "defect": "Yes" }, "required": false },
+      { "key": "worksPhoto2", "label": "Works Photo 2", "type": "camera", "enabledWhen": { "defect": "Yes" }, "required": false }
+    ],
+
+    "valuation": [
+      {
+        "key": "yearManufactured",
+        "label": "Year of Manufacture",
+        "type": "number",
+        "inputType": "year",
+        "required": false
+      },
+      {
+        "key": "yearPurchased",
+        "label": "Year Purchased / Installed",
+        "type": "number",
+        "inputType": "year",
+        "required": false
+      },
+      {
+        "key": "purchasePrice",
+        "label": "Purchase Price ($)",
+        "type": "currency",
+        "required": false,
+        "notes": "Original acquisition cost if known"
+      },
+      {
+        "key": "unitRateRCN",
+        "label": "Unit Rate — Replacement Cost New ($)",
+        "type": "currency",
+        "source": "library-or-manual-override",
+        "notes": "From cost library (later stage) or manual override on site"
+      },
+      {
+        "key": "estimatedReplacementCost",
+        "label": "Estimated Replacement Cost ($)",
+        "type": "formula",
+        "formula": "unitRateRCN * quantity",
+        "notes": "Auto-calculated"
+      },
+      {
+        "key": "effectiveLifeYears",
+        "label": "Effective Life (years)",
+        "type": "number",
+        "source": "library-or-manual",
+        "notes": "Total expected useful life"
+      },
+      {
+        "key": "remainingUsefulLifePct",
+        "label": "Remaining Useful Life (%)",
+        "type": "formula",
+        "formula": "derived from conditionRating (linear: rating 1=100%, rating 5=0%, rating 0=N/A)",
+        "notes": "Auto-derived from condition rating"
+      },
+      {
+        "key": "indemnityValue",
+        "label": "Indemnity Value ($)",
+        "type": "formula",
+        "formula": "estimatedReplacementCost * (remainingUsefulLifePct / 100)",
+        "notes": "Depreciated replacement value for financial reporting"
+      },
+      {
+        "key": "insuranceScheduleCategory",
+        "label": "Insurance Schedule Category",
+        "type": "selection",
+        "options": ["Contents", "Plant & Equipment", "Motor Vehicle", "Other"],
+        "default": "Contents"
+      }
+    ],
+
+    "defectWorks": [
+      {
+        "key": "defect",
+        "label": "Defect (yes/no)",
+        "type": "selection",
+        "options": ["Yes", "No"],
+        "required": true,
+        "default": "No"
+      },
+      {
+        "key": "worksDescription",
+        "label": "Works Description",
+        "type": "text",
+        "enabledWhen": { "defect": "Yes" }
+      },
+      {
+        "key": "defectPriority",
+        "label": "Defect Priority",
+        "type": "selection",
+        "options": ["Immediate (High)", "High", "Moderate", "Low"],
+        "enabledWhen": { "defect": "Yes" }
+      },
+      {
+        "key": "probableCosts",
+        "label": "Probable Repair Cost ($)",
+        "type": "currency",
+        "enabledWhen": { "defect": "Yes" }
+      }
+    ],
+
+    "comments": [
+      {
+        "key": "commentsRecommendations",
+        "label": "Comments / Recommendations",
+        "type": "text",
+        "autofill": false
+      }
+    ]
+  },
+
+  "categoryLibrary": {
+    "Furniture": {
+      "Seating": {
+        "Task Chair": ["--"],
+        "Visitor Chair": ["--"],
+        "Meeting Chair": ["--"],
+        "Lounge Chair / Sofa": ["1-Seater", "2-Seater", "3-Seater"],
+        "Bar Stool": ["--"],
+        "Bench Seat": ["--"],
+        "Chair (Other)": ["--"]
+      },
+      "Tables": {
+        "Meeting Table": ["Rectangular", "Round", "Boat-Shaped"],
+        "Dining Table": ["--"],
+        "Boardroom Table": ["--"],
+        "Coffee Table": ["--"],
+        "Side Table": ["--"]
+      },
+      "Desks & Workstations": {
+        "Straight Desk": ["--"],
+        "Corner Desk": ["--"],
+        "Height-Adjustable Desk": ["Electric", "Manual"],
+        "Workstation Pod": ["Single", "Double", "Quad"],
+        "Reception Desk / Counter": ["--"]
+      },
+      "Storage & Filing": {
+        "Filing Cabinet (Lateral)": ["2-Drawer", "3-Drawer", "4-Drawer"],
+        "Filing Cabinet (Pedestal)": ["2-Drawer", "3-Drawer"],
+        "Bookcase / Shelf Unit": ["--"],
+        "Storage Cabinet": ["--"],
+        "Credenza / Buffet": ["--"],
+        "Locker": ["Single", "Double", "Quad"]
+      },
+      "Screens & Partitions": {
+        "Acoustic Screen": ["--"],
+        "Desk Divider": ["--"],
+        "Freestanding Partition": ["--"]
+      },
+      "Soft Furnishings": {
+        "Rug / Mat": ["--"],
+        "Curtain / Blind": ["--"],
+        "Artwork / Print": ["--"]
+      }
+    },
+
+    "Information Technology": {
+      "Computing": {
+        "Desktop Computer (Tower)": ["--"],
+        "All-in-One Computer": ["--"],
+        "Laptop / Notebook": ["--"],
+        "Tablet / iPad": ["--"],
+        "Server": ["--"],
+        "Docking Station": ["--"],
+        "UPS (Uninterruptible Power Supply)": ["--"]
+      },
+      "Display & Peripherals": {
+        "Monitor / Screen": ["--"],
+        "Keyboard & Mouse (Set)": ["--"],
+        "Printer (Multifunction)": ["--"],
+        "Printer (Desktop)": ["--"],
+        "Scanner": ["--"],
+        "Webcam": ["--"]
+      },
+      "Networking": {
+        "Switch": ["--"],
+        "Router": ["--"],
+        "Wireless Access Point": ["--"],
+        "Patch Panel": ["--"],
+        "Network Rack": ["--"]
+      },
+      "Telephony": {
+        "Desk Phone (IP)": ["--"],
+        "PABX / Phone System": ["--"],
+        "Conference Phone": ["--"]
+      }
+    },
+
+    "Audio Visual": {
+      "Display Systems": {
+        "Flat Screen TV": ["--"],
+        "Interactive Whiteboard": ["--"],
+        "Digital Signage Screen": ["--"],
+        "Projection Screen": ["Fixed", "Motorised", "Portable"]
+      },
+      "Projection": {
+        "Data Projector": ["--"],
+        "Laser Projector": ["--"]
+      },
+      "Audio": {
+        "Speaker System": ["--"],
+        "Amplifier": ["--"],
+        "Microphone System": ["--"],
+        "Hearing Loop": ["--"]
+      },
+      "Video Conferencing": {
+        "Video Conferencing Unit": ["--"],
+        "Camera (PTZ)": ["--"],
+        "Video Bar (All-in-One)": ["--"]
+      },
+      "Control Systems": {
+        "AV Control Panel": ["--"],
+        "HDMI Switch / Matrix": ["--"]
+      }
+    },
+
+    "Appliances & White Goods": {
+      "Kitchen Appliances": {
+        "Refrigerator / Fridge": ["--"],
+        "Bar Fridge": ["--"],
+        "Dishwasher": ["--"],
+        "Microwave Oven": ["--"],
+        "Oven / Stove": ["--"],
+        "Coffee Machine (Auto)": ["--"],
+        "Coffee Machine (Manual)": ["--"],
+        "Water Cooler / Dispenser": ["--"],
+        "Toaster": ["--"],
+        "Kettle": ["--"]
+      },
+      "Laundry": {
+        "Washing Machine": ["--"],
+        "Dryer": ["--"]
+      },
+      "Cleaning": {
+        "Vacuum Cleaner": ["--"],
+        "Floor Polisher": ["--"],
+        "Steam Cleaner": ["--"]
+      }
+    },
+
+    "Office Equipment": {
+      "Mail & Document": {
+        "Shredder": ["--"],
+        "Laminator": ["--"],
+        "Binding Machine": ["--"],
+        "Guillotine / Trimmer": ["--"],
+        "Postage Meter": ["--"]
+      },
+      "Security": {
+        "Safe": ["--"],
+        "Key Cabinet": ["--"],
+        "Cash Register": ["--"]
+      },
+      "Material Handling": {
+        "Trolley": ["--"],
+        "Hand Truck": ["--"],
+        "Pallet Jack": ["--"]
+      }
+    },
+
+    "Fitness & Recreation": {
+      "Cardio Equipment": {
+        "Treadmill": ["--"],
+        "Stationary Bike": ["--"],
+        "Rowing Machine": ["--"],
+        "Elliptical": ["--"]
+      },
+      "Strength Equipment": {
+        "Weight Bench": ["--"],
+        "Dumbbell Set": ["--"],
+        "Barbell / Rack": ["--"],
+        "Gym Machine": ["--"]
+      },
+      "Recreation": {
+        "Pool / Billiards Table": ["--"],
+        "Table Tennis Table": ["--"],
+        "Foosball Table": ["--"]
+      }
+    },
+
+    "Medical & First Aid": {
+      "First Aid": {
+        "Defibrillator (AED)": ["--"],
+        "First Aid Cabinet": ["--"],
+        "Stretcher": ["--"]
+      },
+      "Medical Equipment": {
+        "Blood Pressure Monitor": ["--"],
+        "Examination Table": ["--"]
+      }
+    },
+
+    "Vehicles & Motorised Plant": {
+      "Vehicles": {
+        "Car / Sedan": ["--"],
+        "Van / Ute": ["--"],
+        "Bus / Minibus": ["--"],
+        "Forklift": ["--"],
+        "Golf Cart / Buggy": ["--"]
+      },
+      "Grounds Equipment": {
+        "Ride-On Mower": ["--"],
+        "Walk-Behind Mower": ["--"],
+        "Generator": ["--"],
+        "Pressure Washer": ["--"],
+        "Chainsaw": ["--"]
+      }
+    },
+
+    "Other / Miscellaneous": {
+      "Fixtures & Fittings": {
+        "Wall Clock": ["--"],
+        "Noticeboard / Whiteboard": ["--"],
+        "Letterbox": ["--"],
+        "Flag Pole": ["--"]
+      },
+      "Uncategorised": {
+        "Other": ["--"]
+      }
+    }
+  }
+}
