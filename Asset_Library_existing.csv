@@ -1,0 +1,258 @@
+Unique ID,Asset ID (Client),Parent Asset,Address,Level,Sub Location,Asset Category (L1),Asset Category (L2),Asset Category (L3),Asset Category (L4),Item Description,Condition Rating (0-5),Condition Rating Label,Photo 1,Photo 2,Quantity,Unit of Measurement,Width (mm),Depth (mm),Height (mm),Screen Size (inches),Make / Brand,Model,Serial Number,Asset Tag / Label,Colour / Finish,Comments / Recommendations,Unit Rate - RCN ($),Estimated Replacement Cost ($),Remaining Useful Life (%),Indemnity Value ($),Insurance Schedule Category,Effective Life (years)
+,,,,,,Furniture,Seating,Task Chair,--,"Ergonomic task chair, adjustable lumbar and armrests",2,Good,,,1,ea,670,640,920,,Buro,Metro II,,,Black Mesh,,,,0.75,,Contents,12
+,,,,,,Furniture,Seating,Task Chair,--,"Mid-back mesh task chair, fixed arms",2,Good,,,1,ea,650,620,900,,,,,,Black Mesh,,,,0.75,,Contents,12
+,,,,,,Furniture,Seating,Task Chair,--,High-back leather executive chair,2,Good,,,1,ea,700,700,1200,,,,,,Black Leather,,,,0.75,,Contents,12
+,,,,,,Furniture,Seating,Task Chair,--,"Budget task chair, fabric seat and back",3,Fair,,,1,ea,600,580,860,,,,,,Grey Fabric,,,,0.5,,Contents,10
+,,,,,,Furniture,Seating,Task Chair,--,High-performance ergonomic task chair,2,Good,,,1,ea,680,650,920,,Herman Miller,Aeron,,,Black Mesh,,,,0.75,,Contents,12
+,,,,,,Furniture,Seating,Visitor Chair,--,"4-leg stackable visitor chair, upholstered seat",2,Good,,,1,ea,520,560,820,,,,,,Charcoal Fabric,,,,0.75,,Contents,12
+,,,,,,Furniture,Seating,Visitor Chair,--,"Sled-base visitor chair, padded seat and back",2,Good,,,1,ea,540,580,820,,,,,,Black Fabric,,,,0.75,,Contents,12
+,,,,,,Furniture,Seating,Visitor Chair,--,"Polypropylene shell visitor chair, 4-leg",2,Good,,,1,ea,520,540,780,,,,,,White,,,,0.75,,Contents,10
+,,,,,,Furniture,Seating,Meeting Chair,--,"High-back meeting chair, chrome sled base",2,Good,,,1,ea,550,590,1150,,Haworth,Fern,,,Black Mesh,,,,0.75,,Contents,12
+,,,,,,Furniture,Seating,Meeting Chair,--,"Mid-back meeting chair, upholstered, castors",2,Good,,,1,ea,600,580,950,,,,,,Charcoal Fabric,,,,0.75,,Contents,12
+,,,,,,Furniture,Seating,Lounge Chair / Sofa,1-Seater,"Single-seat armchair, upholstered",2,Good,,,1,ea,900,850,780,,,,,,Navy Fabric,,,,0.75,,Contents,12
+,,,,,,Furniture,Seating,Lounge Chair / Sofa,2-Seater,"2-seater lounge sofa, upholstered",2,Good,,,1,ea,1600,850,780,,,,,,Navy Fabric,,,,0.75,,Contents,12
+,,,,,,Furniture,Seating,Lounge Chair / Sofa,3-Seater,"3-seater lounge sofa, upholstered",2,Good,,,1,ea,2100,900,800,,,,,,Grey Fabric,,,,0.75,,Contents,12
+,,,,,,Furniture,Seating,Bar Stool,--,Counter-height bar stool with footrest,2,Good,,,1,ea,420,400,770,,,,,,Charcoal Fabric,,,,0.75,,Contents,12
+,,,,,,Furniture,Seating,Bar Stool,--,"Bar stool, timber seat and metal legs",2,Good,,,1,ea,380,380,760,,,,,,Timber/Black,,,,0.75,,Contents,12
+,,,,,,Furniture,Seating,Training Chair,--,"Stackable training/seminar chair, upholstered",2,Good,,,1,ea,520,550,840,,,,,,Blue Fabric,,,,0.75,,Contents,10
+,,,,,,Furniture,Seating,Stacking Chair,--,"Polypropylene stacking chair, 4-leg",2,Good,,,1,ea,520,530,820,,,,,,White,,,,0.75,,Contents,10
+,,,,,,Furniture,Seating,Drafting Chair,--,"Draughtsman/drafting stool, footring, adjustable",2,Good,,,1,ea,600,580,1100,,,,,,Black Mesh,,,,0.75,,Contents,10
+,,,,,,Furniture,Seating,Kneeling Chair,--,"Ergonomic kneeling chair, fabric cushion",2,Good,,,1,ea,520,480,700,,,,,,Black Fabric,,,,0.75,,Contents,8
+,,,,,,Furniture,Seating,Bench Seat,--,"Upholstered waiting area bench seat, 3-person",2,Good,,,1,ea,1500,600,450,,,,,,Charcoal Fabric,,,,0.75,,Contents,15
+,,,,,,Furniture,Desks & Workstations,Straight Desk,--,Straight office desk with cable management,2,Good,,,1,ea,1800,750,720,,,,,,Timber Veneer,,,,0.75,,Contents,15
+,,,,,,Furniture,Desks & Workstations,Straight Desk,--,"Straight desk, melamine top, steel legs",2,Good,,,1,ea,1500,750,720,,,,,,White,,,,0.75,,Contents,15
+,,,,,,Furniture,Desks & Workstations,Straight Desk,--,Compact straight desk,2,Good,,,1,ea,1200,600,720,,,,,,White,,,,0.75,,Contents,15
+,,,,,,Furniture,Desks & Workstations,Corner Desk,--,L-shape corner workstation,2,Good,,,1,ea,1800,1800,720,,,,,,Timber Veneer,,,,0.75,,Contents,15
+,,,,,,Furniture,Desks & Workstations,Height-Adjustable Desk,Electric,Electric sit-stand desk with height memory,2,Good,,,1,ea,1600,800,650,,Ergotron,WorkFit-D,,,White,Height range 650â€“1280mm,,,0.75,,Contents,15
+,,,,,,Furniture,Desks & Workstations,Height-Adjustable Desk,Manual,Manual crank sit-stand desk,2,Good,,,1,ea,1600,800,650,,,,,,White,,,,0.75,,Contents,15
+,,,,,,Furniture,Desks & Workstations,Reception Desk / Counter,--,L-shape reception counter with modesty panel,2,Good,,,1,ea,2400,800,1100,,Custom Joinery,,,,White Laminate,,,,0.75,,Contents,15
+,,,,,,Furniture,Desks & Workstations,Reception Desk / Counter,--,"Straight reception counter, curved front",2,Good,,,1,ea,1800,700,1050,,,,,,White Laminate,,,,0.75,,Contents,15
+,,,,,,Furniture,Desks & Workstations,Bench Workstation,--,"Open-plan shared bench workstation, 6-person",2,Good,,,1,ea,3600,1400,720,,,,,,White,,,,0.75,,Contents,15
+,,,,,,Furniture,Desks & Workstations,Credenza / Desk Return,--,Desk return/credenza unit with storage pedestal,2,Good,,,1,ea,1600,450,720,,,,,,Timber Veneer,,,,0.75,,Contents,15
+,,,,,,Furniture,Tables,Boardroom Table,--,"12-person boardroom table, boat-shaped",2,Good,,,1,ea,3600,1200,750,,Custom Joinery,,,,Dark Timber Veneer,,,,0.75,,Contents,20
+,,,,,,Furniture,Tables,Boardroom Table,--,8-person rectangular boardroom table,2,Good,,,1,ea,2800,1050,750,,,,,,Dark Timber Veneer,,,,0.75,,Contents,20
+,,,,,,Furniture,Tables,Meeting Table,--,6-person oval meeting table,2,Good,,,1,ea,2000,1000,750,,,,,,Timber Veneer,,,,0.75,,Contents,20
+,,,,,,Furniture,Tables,Meeting Table,--,4-person rectangular meeting table,2,Good,,,1,ea,1600,900,750,,,,,,White,,,,0.75,,Contents,15
+,,,,,,Furniture,Tables,Dining Table,--,Rectangular breakout/dining table,2,Good,,,1,ea,1800,900,750,,,,,,Timber Veneer,,,,0.75,,Contents,20
+,,,,,,Furniture,Tables,Coffee Table,--,"Rectangular coffee table, timber top",2,Good,,,1,ea,1200,600,450,,,,,,Timber Veneer,,,,0.75,,Contents,15
+,,,,,,Furniture,Tables,Side Table,--,"Round side table, metal frame",2,Good,,,1,ea,500,500,520,,,,,,Black,,,,0.75,,Contents,15
+,,,,,,Furniture,Tables,Training Table,--,Folding training/seminar table,2,Good,,,1,ea,1800,600,720,,,,,,White,,,,0.75,,Contents,10
+,,,,,,Furniture,Tables,Height-Adjustable Table,Electric,Electric sit-stand meeting table,2,Good,,,1,ea,2000,1000,650,,,,,,White,Height range 650â€“1280mm,,,0.75,,Contents,15
+,,,,,,Furniture,Tables,CafÃ© / Bar Table,--,"Round poseur/bar table, metal base",2,Good,,,1,ea,700,700,1050,,,,,,White/Black,,,,0.75,,Contents,12
+,,,,,,Furniture,Storage & Filing,Storage Cabinet,--,2-door storage cabinet with adjustable shelves,2,Good,,,1,ea,900,450,1800,,,,,,White,,,,0.75,,Contents,20
+,,,,,,Furniture,Storage & Filing,Storage Cabinet,--,"4-door storage cabinet, lockable",2,Good,,,1,ea,1800,450,1800,,,,,,White,,,,0.75,,Contents,20
+,,,,,,Furniture,Storage & Filing,Bookcase / Shelf Unit,--,"5-shelf steel shelf unit, heavy duty",2,Good,,,1,ea,900,380,1980,,,,,,White,,,,0.75,,Contents,20
+,,,,,,Furniture,Storage & Filing,Bookcase / Shelf Unit,--,"3-shelf open bookcase, melamine",2,Good,,,1,ea,900,300,1200,,,,,,White,,,,0.75,,Contents,15
+,,,,,,Furniture,Storage & Filing,Filing Cabinet (Lateral),2-Drawer,2-drawer lateral filing cabinet with lock,2,Good,,,1,ea,900,580,720,,Brownbuilt,,,,Beige,,,,0.75,,Contents,20
+,,,,,,Furniture,Storage & Filing,Filing Cabinet (Lateral),3-Drawer,3-drawer lateral filing cabinet with lock,2,Good,,,1,ea,900,580,1050,,Brownbuilt,,,,Beige,,,,0.75,,Contents,20
+,,,,,,Furniture,Storage & Filing,Filing Cabinet (Lateral),4-Drawer,4-drawer lateral filing cabinet with lock,2,Good,,,1,ea,900,580,1330,,Brownbuilt,,,,Beige,,,,0.75,,Contents,20
+,,,,,,Furniture,Storage & Filing,Filing Cabinet (Vertical),4-Drawer,"4-drawer vertical filing cabinet, lockable",2,Good,,,1,ea,460,620,1330,,,,,,Grey,,,,0.75,,Contents,20
+,,,,,,Furniture,Storage & Filing,Filing Cabinet (Pedestal),3-Drawer,"Mobile 3-drawer pedestal, castors and lock",2,Good,,,1,ea,460,570,690,,,,,,White,,,,0.75,,Contents,20
+,,,,,,Furniture,Storage & Filing,Filing Cabinet (Pedestal),2-Drawer,Fixed 2-drawer desk pedestal,2,Good,,,1,ea,460,570,560,,,,,,White,,,,0.75,,Contents,20
+,,,,,,Furniture,Storage & Filing,Credenza / Buffet,--,2-door credenza with timber veneer finish,2,Good,,,1,ea,1800,450,750,,,,,,Dark Timber Veneer,,,,0.75,,Contents,20
+,,,,,,Furniture,Storage & Filing,Credenza / Buffet,--,3-door credenza with combination lock,2,Good,,,1,ea,1600,450,750,,,,,,White,,,,0.75,,Contents,20
+,,,,,,Furniture,Storage & Filing,Locker,Single,Single-door staff locker with padlock provision,2,Good,,,1,ea,300,450,1800,,Brownbuilt,,,,Grey,,,,0.75,,Contents,20
+,,,,,,Furniture,Storage & Filing,Locker,Quad,4-door staff locker with padlock provision,2,Good,,,1,ea,900,450,1800,,Brownbuilt,,,,Grey,,,,0.75,,Contents,20
+,,,,,,Furniture,Storage & Filing,Locker,6-Door,6-door staff locker bank,2,Good,,,1,ea,1200,450,1800,,,,,,Grey,,,,0.75,,Contents,20
+,,,,,,Furniture,Storage & Filing,Compactus / Mobile Shelving,--,"Manual mobile shelving system, 6 bays",2,Good,,,1,ea,4200,900,2000,,Brownbuilt,,,,Grey,,,,0.75,,Contents,25
+,,,,,,Furniture,Storage & Filing,Plan Chest,5-Drawer,"Flat file plan chest, A1 format, 5-drawer",2,Good,,,1,ea,1200,920,750,,,,,,Grey,,,,0.75,,Contents,25
+,,,,,,Furniture,Storage & Filing,Tambour Unit,--,Overhead tambour storage unit,2,Good,,,1,ea,1200,400,370,,,,,,White,,,,0.75,,Contents,20
+,,,,,,Furniture,Screens & Partitions,Acoustic Screen,--,"Freestanding acoustic desk divider, 1200 high",2,Good,,,1,ea,1200,50,1200,,,,,,Grey Fabric,,,,0.75,,Contents,15
+,,,,,,Furniture,Screens & Partitions,Acoustic Screen,--,"Freestanding acoustic floor screen, 1800 high",2,Good,,,1,ea,1200,50,1800,,,,,,Grey Fabric,,,,0.75,,Contents,15
+,,,,,,Furniture,Screens & Partitions,Whiteboard,--,Freestanding double-sided whiteboard on castors,2,Good,,,1,ea,1200,50,1800,,,,,,White,,,,0.75,,Contents,15
+,,,,,,Furniture,Screens & Partitions,Pinboard,--,"Framed fabric pinboard, wall-mounted",2,Good,,,1,ea,1800,30,1200,,,,,,Grey Fabric/Silver Frame,,,,0.75,,Contents,15
+,,,,,,Furniture,Screens & Partitions,Room Divider,--,"Folding 4-panel room divider, fabric",2,Good,,,1,ea,800,30,1800,,,,,,Grey Fabric,,,,0.75,,Contents,15
+,,,,,,Furniture,Soft Furnishings,Artwork / Print,--,"Framed architectural print, professionally mounted",2,Good,,,1,ea,600,50,800,,,,,,Black Frame,,,,0.75,,Contents,20
+,,,,,,Furniture,Soft Furnishings,Artwork / Print,--,"Canvas artwork, abstract, framed",2,Good,,,1,ea,1000,50,800,,,,,,Timber Frame,,,,0.75,,Contents,20
+,,,,,,Furniture,Soft Furnishings,Rug / Carpet Tile,--,"Commercial area rug, wool-blend",2,Good,,,1,ea,2000,3000,10,,,,,,Charcoal,,,,0.75,,Contents,10
+,,,,,,Furniture,Soft Furnishings,Planter / Indoor Plant,--,Large indoor plant in commercial pot,2,Good,,,1,ea,500,500,1200,,,,,,Green/White Pot,,,,0.75,,Contents,5
+,,,,,,Furniture,Soft Furnishings,Window Blind,--,"Roller blind, blockout, motorised",2,Good,,,1,ea,1500,100,50,,,,,,White,,,,0.75,,Contents,10
+,,,,,,Information Technology,Computing,Desktop Computer (Tower),--,Desktop PC tower,2,Good,,,1,ea,,,400,,Dell,OptiPlex 7010,,,Black,,,,0.75,,Plant & Equipment,5
+,,,,,,Information Technology,Computing,Desktop Computer (Tower),--,"Desktop PC tower, high-performance workstation",2,Good,,,1,ea,,,420,,HP,Z4 G5,,,Black,,,,0.75,,Plant & Equipment,5
+,,,,,,Information Technology,Computing,Desktop Computer (AIO),--,"All-in-one desktop computer, 27-inch",2,Good,,,1,ea,650,200,480,27,Apple,iMac,,,Silver,,,,0.75,,Plant & Equipment,5
+,,,,,,Information Technology,Computing,Laptop / Notebook,--,Business laptop,2,Good,,,1,ea,320,230,18,,Dell,Latitude 5540,,,Black,,,,0.75,,Plant & Equipment,5
+,,,,,,Information Technology,Computing,Laptop / Notebook,--,Business ultrabook,2,Good,,,1,ea,300,200,14,,Lenovo,ThinkPad X1 Carbon,,,Black,,,,0.75,,Plant & Equipment,5
+,,,,,,Information Technology,Computing,Laptop / Notebook,--,MacBook Pro 14-inch,2,Good,,,1,ea,312,221,16,,Apple,MacBook Pro 14,,,Silver,,,,0.75,,Plant & Equipment,5
+,,,,,,Information Technology,Computing,Tablet,--,iPad Pro 12.9-inch with keyboard,2,Good,,,1,ea,281,215,7,,Apple,iPad Pro,,,Space Grey,Includes Magic Keyboard,,,0.75,,Plant & Equipment,5
+,,,,,,Information Technology,Computing,Docking Station,--,"USB-C universal docking station, dual display",2,Good,,,1,ea,200,80,35,,Dell,WD19S,,,Black,,,,0.75,,Plant & Equipment,5
+,,,,,,Information Technology,Computing,Mini PC / NUC,--,Intel NUC mini PC,2,Good,,,1,ea,120,120,60,,Intel,NUC 12 Pro,,,Black,,,,0.75,,Plant & Equipment,5
+,,,,,,Information Technology,Computing,Server (Tower),--,Tower server,2,Good,,,1,ea,220,600,430,,Dell,PowerEdge T350,,,Black,,,,0.75,,Plant & Equipment,8
+,,,,,,Information Technology,Display & Peripherals,Monitor / Screen,--,27-inch IPS LED monitor,2,Good,,,1,ea,,,,27,Dell,P2722H,,,Black,,,,0.75,,Plant & Equipment,5
+,,,,,,Information Technology,Display & Peripherals,Monitor / Screen,--,27-inch USB-C IPS monitor,2,Good,,,1,ea,,,,27,Dell,U2722D,,,Black,,,,0.75,,Plant & Equipment,5
+,,,,,,Information Technology,Display & Peripherals,Monitor / Screen,--,34-inch ultrawide curved monitor,2,Good,,,1,ea,,,,34,LG,34WN80C-B,,,Black,,,,0.75,,Plant & Equipment,5
+,,,,,,Information Technology,Display & Peripherals,Printer (Multifunction),--,A3 colour multifunction printer/copier/scanner,2,Good,,,1,ea,580,560,680,,Canon,iR-ADV C3530i,,,White/Grey,,,,0.75,,Plant & Equipment,8
+,,,,,,Information Technology,Display & Peripherals,Printer (Multifunction),--,A4 mono multifunction printer,2,Good,,,1,ea,420,430,450,,HP,LaserJet Pro MFP M428fdw,,,White,,,,0.75,,Plant & Equipment,8
+,,,,,,Information Technology,Display & Peripherals,Printer (Desktop),--,A4 colour inkjet printer,2,Good,,,1,ea,440,350,180,,Epson,EcoTank ET-5800,,,White,,,,0.75,,Plant & Equipment,8
+,,,,,,Information Technology,Display & Peripherals,Scanner (Flatbed),--,A3 flatbed document scanner,2,Good,,,1,ea,490,290,120,,Epson,DS-780N,,,White,,,,0.75,,Plant & Equipment,8
+,,,,,,Information Technology,Display & Peripherals,Scanner (Sheet-fed),--,High-speed A4 sheet-fed document scanner,2,Good,,,1,ea,290,160,170,,Fujitsu,fi-7300NX,,,Black,,,,0.75,,Plant & Equipment,8
+,,,,,,Information Technology,Display & Peripherals,Keyboard,--,Wireless ergonomic keyboard,2,Good,,,1,ea,430,150,35,,Logitech,MX Keys,,,Black,,,,0.75,,Plant & Equipment,5
+,,,,,,Information Technology,Display & Peripherals,Mouse,--,Wireless ergonomic mouse,2,Good,,,1,ea,120,70,45,,Logitech,MX Master 3,,,Black,,,,0.75,,Plant & Equipment,5
+,,,,,,Information Technology,Display & Peripherals,Webcam,--,4K USB webcam,2,Good,,,1,ea,100,90,80,,Logitech,Brio 4K,,,Black,,,,0.75,,Plant & Equipment,5
+,,,,,,Information Technology,Display & Peripherals,UPS (Battery Backup),--,"Line-interactive UPS, 1500VA",2,Good,,,1,ea,330,150,220,,APC,Smart-UPS 1500,,,Black,,,,0.75,,Plant & Equipment,8
+,,,,,,Information Technology,Networking & Communications,Network Switch,--,24-port managed gigabit switch,2,Good,,,1,ea,440,200,44,,Cisco,CBS350-24T-4G,,,Black,,,,0.75,,Plant & Equipment,8
+,,,,,,Information Technology,Networking & Communications,Wireless Access Point,--,Wi-Fi 6 ceiling-mount access point,2,Good,,,1,ea,220,220,50,,Ubiquiti,UniFi AP U6-LR,,,White,,,,0.75,,Plant & Equipment,8
+,,,,,,Information Technology,Networking & Communications,Patch Panel,--,24-port Cat6 patch panel,2,Good,,,1,ea,480,50,44,,,,,,Black,,,,0.75,,Plant & Equipment,10
+,,,,,,Information Technology,Networking & Communications,VoIP Phone,--,"Desktop VoIP phone, colour display",2,Good,,,1,ea,230,200,150,,Yealink,T54W,,,Black,,,,0.75,,Plant & Equipment,8
+,,,,,,Information Technology,Networking & Communications,VoIP Phone,--,"Executive VoIP phone, touchscreen",2,Good,,,1,ea,250,220,180,,Polycom,VVX 601,,,Black,,,,0.75,,Plant & Equipment,8
+,,,,,,Information Technology,Networking & Communications,PABX / IP PBX,--,IP-PBX telephony system controller,2,Good,,,1,ea,440,350,44,,3CX,,,,Black,,,,0.75,,Plant & Equipment,8
+,,,,,,Information Technology,Networking & Communications,Network Rack,--,12U wall-mount network cabinet,2,Good,,,1,ea,540,400,600,,,,,,Black,,,,0.75,,Plant & Equipment,15
+,,,,,,Information Technology,Networking & Communications,NAS (Network Storage),--,"4-bay NAS, RAID5",2,Good,,,1,ea,170,230,230,,Synology,DS923+,,,Black,,,,0.75,,Plant & Equipment,8
+,,,,,,Information Technology,Networking & Communications,Firewall / Router,--,Enterprise firewall/router appliance,2,Good,,,1,ea,430,200,44,,Fortinet,FortiGate 60F,,,Black,,,,0.75,,Plant & Equipment,8
+,,,,,,Audio Visual,Display Systems,Flat Screen TV,--,Wall-mounted 65-inch UHD TV,2,Good,,,1,ea,,,,65,Samsung,QN65Q80C,,,Black,,,,0.75,,Plant & Equipment,8
+,,,,,,Audio Visual,Display Systems,Flat Screen TV,--,Wall-mounted 75-inch UHD display panel,2,Good,,,1,ea,,,,75,LG,75QNED90,,,Black,,,,0.75,,Plant & Equipment,8
+,,,,,,Audio Visual,Display Systems,Flat Screen TV,--,Wall-mounted 85-inch commercial display,2,Good,,,1,ea,,,,85,Samsung,QM85B,,,Black,,,,0.75,,Plant & Equipment,8
+,,,,,,Audio Visual,Display Systems,Digital Signage Screen,--,"Commercial-grade digital signage display, landscape",2,Good,,,1,ea,,,,55,Samsung,QH55B,,,Black,,,,0.75,,Plant & Equipment,8
+,,,,,,Audio Visual,Display Systems,Digital Signage Screen,--,"Commercial-grade digital signage, portrait",2,Good,,,1,ea,,,,49,LG,49VL5G,,,Black,,,,0.75,,Plant & Equipment,8
+,,,,,,Audio Visual,Display Systems,Projector,--,"Short-throw laser projector, 5000 lumens",2,Good,,,1,ea,500,380,150,,Epson,EB-PU1007,,,White,,,,0.75,,Plant & Equipment,10
+,,,,,,Audio Visual,Display Systems,Projection Screen,--,"Motorised pull-down projection screen, 120-inch",2,Good,,,1,ea,2800,80,120,,Elite Screens,,,,White,,,,0.75,,Plant & Equipment,15
+,,,,,,Audio Visual,Display Systems,LED Video Wall,--,"3Ã—2 LED tile video wall, 1.5mm pixel pitch",2,Good,,,1,set,1800,100,1200,,,,,,Black,,,,0.75,,Plant & Equipment,10
+,,,,,,Audio Visual,Display Systems,Interactive Whiteboard,--,86-inch 4K interactive flat panel display,2,Good,,,1,ea,,,,86,Clevertouch,Pro V2,,,Black,,,,0.75,,Plant & Equipment,10
+,,,,,,Audio Visual,Video Conferencing,Video Bar (All-in-One),--,"Integrated video conferencing bar, camera/mic/speaker",2,Good,,,1,ea,700,150,100,,Poly,Studio E70,,,Black,,,,0.75,,Plant & Equipment,8
+,,,,,,Audio Visual,Video Conferencing,Video Bar (All-in-One),--,"USB video conferencing bar, Teams/Zoom certified",2,Good,,,1,ea,600,100,80,,Logitech,Rally Bar Mini,,,Graphite,,,,0.75,,Plant & Equipment,8
+,,,,,,Audio Visual,Video Conferencing,PTZ Camera,--,HD PTZ camera with remote control,2,Good,,,1,ea,200,200,180,,Poly,EagleEye IV,,,Black,,,,0.75,,Plant & Equipment,8
+,,,,,,Audio Visual,Video Conferencing,Conferencing Speakerphone,--,USB/Bluetooth conference speakerphone,2,Good,,,1,ea,200,200,50,,Poly,Sync 60,,,Black,,,,0.75,,Plant & Equipment,8
+,,,,,,Audio Visual,Video Conferencing,Video Conferencing Codec,--,Room-system video conferencing codec,2,Good,,,1,ea,330,220,55,,Cisco,Room Bar,,,Black,,,,0.75,,Plant & Equipment,8
+,,,,,,Audio Visual,Video Conferencing,Collaboration Touch Panel,--,10-inch touch panel room controller,2,Good,,,1,ea,260,120,20,,Crestron,TSW-1070,,,Black,,,,0.75,,Plant & Equipment,8
+,,,,,,Audio Visual,Audio Systems,Ceiling Speaker,--,"Ceiling-mount 6-inch speaker, 100V line",2,Good,,,1,ea,175,175,100,,,,,,White,,,,0.75,,Plant & Equipment,15
+,,,,,,Audio Visual,Audio Systems,Amplifier,--,"100V line amplifier, 240W, 4-zone",2,Good,,,1,ea,480,300,90,,,,,,Black,,,,0.75,,Plant & Equipment,15
+,,,,,,Audio Visual,Audio Systems,Wireless Microphone System,--,"Handheld wireless mic system, dual channel",2,Good,,,1,set,250,180,90,,Sennheiser,EW 100 G4,,,Black,,,,0.75,,Plant & Equipment,10
+,,,,,,Audio Visual,Audio Systems,Wireless Microphone System,--,Lapel/lavalier wireless mic system,2,Good,,,1,set,100,60,30,,Sennheiser,XSW-D,,,Black,,,,0.75,,Plant & Equipment,10
+,,,,,,Audio Visual,Audio Systems,AV Receiver / Amplifier,--,"AV receiver, 7.2 channel",2,Good,,,1,ea,430,320,160,,Denon,AVR-X2800H,,,Black,,,,0.75,,Plant & Equipment,10
+,,,,,,Audio Visual,Audio Systems,Soundbar,--,"Commercial soundbar, wall-mounted",2,Good,,,1,ea,900,80,80,,Bose,Videobar VB1,,,Black,,,,0.75,,Plant & Equipment,10
+,,,,,,Audio Visual,AV Control & Distribution,AV Matrix Switcher,--,8Ã—8 HDMI matrix switcher with HDBaseT,2,Good,,,1,ea,480,300,44,,Crestron,DM-MD8X8,,,Black,,,,0.75,,Plant & Equipment,10
+,,,,,,Audio Visual,AV Control & Distribution,HDMI Splitter,--,1Ã—4 HDMI 4K splitter,2,Good,,,1,ea,160,80,25,,,,,,Black,,,,0.75,,Plant & Equipment,8
+,,,,,,Audio Visual,AV Control & Distribution,AV Control System,--,Programmable AV control processor,2,Good,,,1,ea,430,250,44,,Crestron,CP4-R,,,Black,,,,0.75,,Plant & Equipment,10
+,,,,,,Audio Visual,AV Control & Distribution,Streaming / Presentation PC,--,Mini PC configured for AV streaming/presentation,2,Good,,,1,ea,200,200,40,,,,,,Black,,,,0.75,,Plant & Equipment,5
+,,,,,,Appliances & White Goods,Kitchen Appliances,Refrigerator / Fridge,--,French door refrigerator with water dispenser,2,Good,,,1,ea,750,680,1780,,Fisher & Paykel,RF540ADUB5,,,Stainless Steel,,,,0.75,,Plant & Equipment,12
+,,,,,,Appliances & White Goods,Kitchen Appliances,Refrigerator / Fridge,--,Bar fridge / under-bench refrigerator,2,Good,,,1,ea,595,600,870,,,,,,Stainless Steel,,,,0.75,,Plant & Equipment,10
+,,,,,,Appliances & White Goods,Kitchen Appliances,Refrigerator / Fridge,--,Upright commercial display fridge,2,Good,,,1,ea,600,600,1850,,,,,,Stainless Steel,,,,0.75,,Plant & Equipment,12
+,,,,,,Appliances & White Goods,Kitchen Appliances,Dishwasher,--,"Under-bench dishwasher, freestanding",2,Good,,,1,ea,600,610,850,,Bosch,SMS68TI01A,,,White,,,,0.75,,Plant & Equipment,12
+,,,,,,Appliances & White Goods,Kitchen Appliances,Dishwasher,--,Commercial undercounter dishwasher,2,Good,,,1,ea,600,620,850,,Winterhalter,UC-XL,,,Stainless Steel,,,,0.75,,Plant & Equipment,12
+,,,,,,Appliances & White Goods,Kitchen Appliances,Microwave Oven,--,Countertop microwave oven,2,Good,,,1,ea,510,430,310,,Panasonic,NN-ST664W,,,White,,,,0.75,,Plant & Equipment,10
+,,,,,,Appliances & White Goods,Kitchen Appliances,Microwave Oven,--,"Commercial microwave, 1800W",2,Good,,,1,ea,540,450,310,,Panasonic,NE-1880,,,Stainless Steel,,,,0.75,,Plant & Equipment,10
+,,,,,,Appliances & White Goods,Kitchen Appliances,Coffee Machine (Auto),--,Fully automatic bean-to-cup coffee machine,2,Good,,,1,ea,280,380,360,,Jura,E8,,,Silver/Black,Includes integrated milk frother,,,0.75,,Plant & Equipment,10
+,,,,,,Appliances & White Goods,Kitchen Appliances,Coffee Machine (Auto),--,Commercial super-auto coffee machine,2,Good,,,1,ea,350,450,620,,Franke,A600,,,Black/Silver,,,,0.75,,Plant & Equipment,10
+,,,,,,Appliances & White Goods,Kitchen Appliances,Coffee Machine (Pod),--,Pod/capsule coffee machine,2,Good,,,1,ea,280,320,300,,Nespresso,Vertuo Next,,,Black,,,,0.75,,Plant & Equipment,8
+,,,,,,Appliances & White Goods,Kitchen Appliances,Water Cooler / Dispenser,--,Plumbed-in instant hot/cold/sparkling water tap,2,Good,,,1,ea,300,370,1100,,Zip,HydroTap G5,,,Chrome/Black,,,,0.75,,Plant & Equipment,12
+,,,,,,Appliances & White Goods,Kitchen Appliances,Water Cooler / Dispenser,--,Freestanding hot/cold water cooler,2,Good,,,1,ea,360,320,1300,,Zip,HydroPlus BP,,,White,,,,0.75,,Plant & Equipment,10
+,,,,,,Appliances & White Goods,Kitchen Appliances,Kettle,--,Commercial-grade 1.7L electric kettle,2,Good,,,1,ea,260,200,260,,,,,,Stainless Steel,,,,0.75,,Plant & Equipment,8
+,,,,,,Appliances & White Goods,Kitchen Appliances,Toaster,--,Commercial 4-slice toaster,2,Good,,,1,ea,360,200,200,,,,,,Stainless Steel,,,,0.75,,Plant & Equipment,8
+,,,,,,Appliances & White Goods,Laundry Appliances,Washing Machine,--,Front-load commercial washing machine,2,Good,,,1,ea,600,580,850,,Electrolux,EWF1042Q7WB,,,White,,,,0.75,,Plant & Equipment,12
+,,,,,,Appliances & White Goods,Laundry Appliances,Dryer,--,Commercial heat-pump dryer,2,Good,,,1,ea,600,580,850,,Electrolux,EDH3887GWE,,,White,,,,0.75,,Plant & Equipment,12
+,,,,,,Appliances & White Goods,Laundry Appliances,Ironing Board,--,Commercial ironing board with steam iron,2,Good,,,1,ea,1400,400,950,,,,,,Silver/Grey,,,,0.75,,Contents,10
+,,,,,,Office Equipment,Mail & Document,Shredder,--,"Cross-cut paper shredder, P-4 security level",2,Good,,,1,ea,360,230,580,,Fellowes,Powershred 79Ci,,,Black/Silver,,,,0.75,,Plant & Equipment,10
+,,,,,,Office Equipment,Mail & Document,Shredder,--,"Micro-cut high-security shredder, P-6",2,Good,,,1,ea,400,280,620,,Fellowes,Powershred 99Ci,,,Black/Silver,,,,0.75,,Plant & Equipment,10
+,,,,,,Office Equipment,Mail & Document,Laminator,--,"A3 thermal laminator, hot/cold",2,Good,,,1,ea,540,170,75,,,,,,Grey,,,,0.75,,Plant & Equipment,10
+,,,,,,Office Equipment,Mail & Document,Folding Machine,--,Automatic letter/document folder,2,Good,,,1,ea,380,300,300,,,,,,Grey,,,,0.75,,Plant & Equipment,10
+,,,,,,Office Equipment,Mail & Document,Franking Machine,--,Digital postage meter/franking machine,2,Good,,,1,ea,350,250,200,,Pitney Bowes,SendPro C,,,Grey,,,,0.75,,Plant & Equipment,8
+,,,,,,Office Equipment,Mail & Document,Label Printer,--,Desktop thermal label printer,2,Good,,,1,ea,200,140,180,,Zebra,ZD421,,,Black,,,,0.75,,Plant & Equipment,8
+,,,,,,Office Equipment,Presentation,Lectern / Podium,--,Timber lectern with reading lamp and mic,2,Good,,,1,ea,550,500,1150,,,,,,Timber Veneer,,,,0.75,,Contents,20
+,,,,,,Office Equipment,Presentation,Projection Trolley,--,AV/projector trolley with lockable cabinet,2,Good,,,1,ea,600,500,900,,,,,,Black,,,,0.75,,Contents,15
+,,,,,,Office Equipment,Presentation,Flip Chart Easel,--,Height-adjustable flip chart easel,2,Good,,,1,ea,700,200,1700,,,,,,Black,,,,0.75,,Contents,10
+,,,,,,Office Equipment,Security,EFTPOS / Payment Terminal,--,Countertop EFTPOS payment terminal,2,Good,,,1,ea,130,80,60,,Verifone,V240m,,,Black,,,,0.75,,Plant & Equipment,5
+,,,,,,Office Equipment,Security,ID Card Printer,--,Single-sided PVC card printer,2,Good,,,1,ea,300,180,200,,Zebra,ZC300,,,White,,,,0.75,,Plant & Equipment,8
+,,,,,,Safes & Storage,Safes,Cash / Petty Cash Safe,--,"Petty cash safe, digital keypad, 20L",2,Good,,,1,ea,310,250,210,,Chubbsafes,Trident 2,,,Black,Rating: B class,,,0.75,,Plant & Equipment,25
+,,,,,,Safes & Storage,Safes,Cash / Petty Cash Safe,--,"Under-counter cash safe, digital lock, 15L",2,Good,,,1,ea,350,300,200,,SentrySafe,SFW123GDC,,,Grey,,,,0.75,,Plant & Equipment,25
+,,,,,,Safes & Storage,Safes,Floor Safe,--,"Floor-mount cash/document safe, digital, 50L",2,Good,,,1,ea,400,380,360,,Chubbsafes,Sovereign G3,,,Black,Rating: C class. Concealed under carpet.,,,0.75,,Plant & Equipment,25
+,,,,,,Safes & Storage,Safes,Wall Safe,--,"Recessed wall safe, key/combination, 20L",2,Good,,,1,ea,380,200,280,,,,,,Grey,Concealed behind artwork,,,0.75,,Plant & Equipment,25
+,,,,,,Safes & Storage,Safes,Fire Safe,--,"Fireproof document safe, electronic lock, 30L",2,Good,,,1,ea,440,380,370,,SentrySafe,SFW205GQC,,,Grey,UL Class 350 1-hour fire rating,,,0.75,,Plant & Equipment,25
+,,,,,,Safes & Storage,Safes,Fire Safe,--,"Fireproof media/data safe, 60L",2,Good,,,1,ea,560,480,430,,Chubbsafes,DataGuard DG50,,,Grey,UL Class 125 1-hour rating,,,0.75,,Plant & Equipment,25
+,,,,,,Safes & Storage,Safes,Drug / Narcotic Safe,--,"Scheduled drug safe, double-lock, 40L",2,Good,,,1,ea,400,350,380,,Gardall,SB4038,,,Grey,Compliant with state drug storage regulations,,,0.75,,Plant & Equipment,25
+,,,,,,Safes & Storage,Safes,Key Cabinet Safe,--,"Electronic key cabinet, 50-hook",2,Good,,,1,ea,250,80,350,,Kidde,AccessPoint 001799,,,Grey,,,,0.75,,Plant & Equipment,20
+,,,,,,Safes & Storage,Safes,Key Cabinet Safe,--,"Electronic key cabinet, 200-hook, audited access",2,Good,,,1,ea,450,120,550,,Morse Watchmans,KeyWatcher,,,Black,"Network connected, audit log",,,0.75,,Plant & Equipment,20
+,,,,,,Safes & Storage,Safes,Deposit Safe,--,"Drop/deposit safe, front-load, digital",2,Good,,,1,ea,360,380,580,,Chubbsafes,Sigma 4K D,,,Black,Rating: B class,,,0.75,,Plant & Equipment,25
+,,,,,,Safes & Storage,Safes,Gun / Firearm Safe,--,"Long-arm firearm safe, 8-gun, dual lock",2,Good,,,1,ea,340,290,1580,,,,,,Black,Compliant with Firearms Regulations 2017 (Vic),,,0.75,,Plant & Equipment,25
+,,,,,,Safes & Storage,Safes,Laptop / IT Security Safe,--,"Laptop charging and security safe, 6-unit",2,Good,,,1,ea,480,450,620,,Datamation,DS-AL6,,,Grey,,,,0.75,,Plant & Equipment,15
+,,,,,,Fitness & Recreation,Cardio Equipment,Treadmill,--,Commercial treadmill with touchscreen console,2,Good,,,1,ea,2000,900,1450,,Life Fitness,T5,,,Black,,,,0.75,,Plant & Equipment,10
+,,,,,,Fitness & Recreation,Cardio Equipment,Elliptical / Cross Trainer,--,Commercial elliptical cross trainer,2,Good,,,1,ea,2100,700,1620,,Life Fitness,E5,,,Black,,,,0.75,,Plant & Equipment,10
+,,,,,,Fitness & Recreation,Cardio Equipment,Exercise Bike (Upright),--,Commercial upright exercise bike,2,Good,,,1,ea,1100,520,1380,,Life Fitness,C5,,,Black,,,,0.75,,Plant & Equipment,10
+,,,,,,Fitness & Recreation,Cardio Equipment,Exercise Bike (Recumbent),--,Commercial recumbent bike,2,Good,,,1,ea,1700,680,1170,,,,,,Black,,,,0.75,,Plant & Equipment,10
+,,,,,,Fitness & Recreation,Cardio Equipment,Rowing Machine,--,Air/magnetic resistance rowing machine,2,Good,,,1,ea,2440,580,250,,Concept2,Model D,,,Black,,,,0.75,,Plant & Equipment,15
+,,,,,,Fitness & Recreation,Strength Equipment,Cable Machine (Functional Trainer),--,"Dual cable functional trainer, adjustable pulleys",2,Good,,,1,ea,1100,1000,2200,,,,,,Black,,,,0.75,,Plant & Equipment,15
+,,,,,,Fitness & Recreation,Strength Equipment,Weight Bench,--,Commercial flat/incline/decline weight bench,2,Good,,,1,ea,1400,620,450,,,,,,Black,,,,0.75,,Plant & Equipment,15
+,,,,,,Fitness & Recreation,Strength Equipment,Dumbbell Rack,--,3-tier dumbbell rack with rubber mat,2,Good,,,1,ea,2100,500,1000,,,,,,Black,Includes 2â€“20kg dumbbells,,,0.75,,Plant & Equipment,20
+,,,,,,Fitness & Recreation,Strength Equipment,Squat Rack,--,Power cage/squat rack with safety bars,2,Good,,,1,ea,1200,1400,2200,,,,,,Black,,,,0.75,,Plant & Equipment,20
+,,,,,,Fitness & Recreation,Recreation,Pool Table,--,"7-foot pool/billiards table, slate bed",2,Good,,,1,ea,2000,1100,820,,,,,,Green Felt/Timber,Includes cues and balls,,,0.75,,Contents,25
+,,,,,,Fitness & Recreation,Recreation,Table Tennis Table,--,"Full-size table tennis table, foldable",2,Good,,,1,ea,2740,1525,760,,Butterfly,Centerfold 25,,,Blue,"Includes net, paddles and balls",,,0.75,,Contents,20
+,,,,,,Fitness & Recreation,Recreation,Foosball Table,--,Standard foosball/table football table,2,Good,,,1,ea,1400,750,900,,,,,,Black,,,,0.75,,Contents,20
+,,,,,,Medical & First Aid,First Aid,First Aid Kit,--,"Fully stocked workplace first aid kit, Type C",2,Good,,,1,ea,480,200,380,,St John,,,,Green,Contents per WorkSafe requirements,,,0.75,,Plant & Equipment,3
+,,,,,,Medical & First Aid,First Aid,First Aid Kit,--,"Vehicle first aid kit, soft bag",2,Good,,,1,ea,300,120,200,,St John,,,,Green,,,,0.75,,Plant & Equipment,3
+,,,,,,Medical & First Aid,First Aid,AED (Defibrillator),--,Semi-automatic AED with wall cabinet,2,Good,,,1,ea,250,80,200,,Philips,HeartStart FRx,,,White/Green,AED inspected monthly. Wall cabinet included.,,,0.75,,Plant & Equipment,10
+,,,,,,Medical & First Aid,First Aid,AED (Defibrillator),--,Fully automatic AED with alarmed cabinet,2,Good,,,1,ea,280,100,240,,ZOLL,AED Plus,,,White,,,,0.75,,Plant & Equipment,10
+,,,,,,Medical & First Aid,First Aid,Stretcher,--,Folding ambulance-style stretcher,2,Good,,,1,ea,1950,580,300,,Spencer,Comfort Plus,,,Grey,,,,0.75,,Plant & Equipment,15
+,,,,,,Medical & First Aid,First Aid,Eyewash Station,--,Gravity-fed wall-mount eyewash station,2,Good,,,1,ea,200,150,350,,Honeywell,FENDALL 2000,,,Green/White,,,,0.75,,Plant & Equipment,10
+,,,,,,Medical & First Aid,Medical Equipment,Blood Pressure Monitor,--,Digital upper-arm blood pressure monitor,2,Good,,,1,ea,140,80,120,,Omron,HBP-1300,,,White,,,,0.75,,Plant & Equipment,8
+,,,,,,Medical & First Aid,Medical Equipment,Pulse Oximeter,--,Fingertip pulse oximeter,2,Good,,,1,ea,70,35,35,,,,,,Black,,,,0.75,,Plant & Equipment,5
+,,,,,,Medical & First Aid,Medical Equipment,Height/Weight Scale,--,Digital column scale with height rod,2,Good,,,1,ea,340,340,1000,,Seca,769,,,White,,,,0.75,,Plant & Equipment,15
+,,,,,,Medical & First Aid,Medical Equipment,Examination Table,--,"Clinical examination table, roll paper holder",2,Good,,,1,ea,1900,600,850,,,,,,White Vinyl,,,,0.75,,Plant & Equipment,20
+,,,,,,Medical & First Aid,Medical Equipment,Medical Trolley,--,"Stainless steel medical trolley, 3-shelf",2,Good,,,1,ea,600,400,850,,,,,,Stainless Steel,,,,0.75,,Plant & Equipment,20
+,,,,,,Medical & First Aid,Medical Equipment,Refrigerator (Medical),--,"Medical-grade underbench refrigerator, 2â€“8Â°C",2,Good,,,1,ea,595,595,840,,Labcold,RPFR0510,,,White,Dedicated for medications/vaccines only,,,0.75,,Plant & Equipment,12
+,,,,,,Medical & First Aid,Medical Equipment,Autoclave / Steriliser,--,"Bench-top steam autoclave, 23L",2,Good,,,1,ea,480,580,380,,Melag,Vacuklav 43 B,,,Stainless Steel,,,,0.75,,Plant & Equipment,15
+,,,,,,Medical & First Aid,Medical Equipment,Dental Chair,--,Hydraulic dental treatment chair with spittoon,2,Good,,,1,ea,2200,850,1000,,,,,,White,,,,0.75,,Plant & Equipment,20
+,,,,,,Vehicles & Motorised Plant,Motor Vehicles,Passenger Car,--,"Light passenger vehicle, petrol",2,Good,,,1,ea,,,,,Toyota,Camry,,,White,Refer to motor vehicle schedule,,,0.75,,Motor Vehicle,8
+,,,,,,Vehicles & Motorised Plant,Motor Vehicles,Passenger Car,--,"Light passenger vehicle, hybrid",2,Good,,,1,ea,,,,,Toyota,Camry Hybrid,,,Silver,Refer to motor vehicle schedule,,,0.75,,Motor Vehicle,8
+,,,,,,Vehicles & Motorised Plant,Motor Vehicles,SUV / 4WD,--,"Medium SUV, petrol",2,Good,,,1,ea,,,,,Toyota,RAV4,,,White,Refer to motor vehicle schedule,,,0.75,,Motor Vehicle,8
+,,,,,,Vehicles & Motorised Plant,Motor Vehicles,SUV / 4WD,--,"Large 4WD, diesel",2,Good,,,1,ea,,,,,Toyota,LandCruiser 300,,,White,Refer to motor vehicle schedule,,,0.75,,Motor Vehicle,10
+,,,,,,Vehicles & Motorised Plant,Motor Vehicles,Utility Vehicle (Ute),--,"Single-cab utility, 4WD diesel",2,Good,,,1,ea,,,,,Toyota,HiLux SR5,,,White,Refer to motor vehicle schedule,,,0.75,,Motor Vehicle,10
+,,,,,,Vehicles & Motorised Plant,Motor Vehicles,Utility Vehicle (Ute),--,"Dual-cab utility, 4WD diesel",2,Good,,,1,ea,,,,,Ford,Ranger XLT,,,White,Refer to motor vehicle schedule,,,0.75,,Motor Vehicle,10
+,,,,,,Vehicles & Motorised Plant,Motor Vehicles,Van / People Mover,--,"Light commercial van, petrol",2,Good,,,1,ea,,,,,Toyota,HiAce Van,,,White,Refer to motor vehicle schedule,,,0.75,,Motor Vehicle,10
+,,,,,,Vehicles & Motorised Plant,Motor Vehicles,Minibus,--,"12-seat minibus, diesel",2,Good,,,1,ea,,,,,Toyota,HiAce Commuter,,,White,Refer to motor vehicle schedule,,,0.75,,Motor Vehicle,15
+,,,,,,Vehicles & Motorised Plant,Motor Vehicles,Electric Vehicle,--,Battery-electric light passenger vehicle,2,Good,,,1,ea,,,,,Tesla,Model 3,,,White,Refer to motor vehicle schedule,,,0.75,,Motor Vehicle,10
+,,,,,,Vehicles & Motorised Plant,Motorised Plant,Ride-on Mower,--,"Commercial ride-on lawn mower, zero-turn",2,Good,,,1,ea,1650,1100,1100,,Husqvarna,Z348X,,,Orange,,,,0.75,,Plant & Equipment,10
+,,,,,,Vehicles & Motorised Plant,Motorised Plant,Walk-behind Mower,--,Commercial walk-behind petrol mower,2,Good,,,1,ea,550,510,1050,,Honda,HRX476,,,Red,,,,0.75,,Plant & Equipment,10
+,,,,,,Vehicles & Motorised Plant,Motorised Plant,Forklift,--,"Electric counterbalance forklift, 2.5t capacity",2,Good,,,1,ea,2200,1200,2200,,Toyota,8FBE25,,,Yellow,Requires forklift licence,,,0.75,,Plant & Equipment,10
+,,,,,,Vehicles & Motorised Plant,Motorised Plant,Pallet Jack (Electric),--,"Electric walkie pallet jack, 2.0t",2,Good,,,1,ea,1730,740,1200,,Crown,PE 4000,,,Yellow,,,,0.75,,Plant & Equipment,10
+,,,,,,Vehicles & Motorised Plant,Motorised Plant,Scissor Lift,--,"Electric scissor lift, 8m platform height",2,Good,,,1,ea,2600,1200,1800,,Genie,GS-2632,,,Yellow,Requires EWP licence,,,0.75,,Plant & Equipment,12
+,,,,,,Vehicles & Motorised Plant,Motorised Plant,Boom Lift (Cherry Picker),--,"Knuckle boom lift, 16m working height",2,Good,,,1,ea,2200,4800,1950,,Genie,Z-45/25J,,,Yellow,Requires EWP licence,,,0.75,,Plant & Equipment,15
+,,,,,,Vehicles & Motorised Plant,Motorised Plant,Golf Cart / EV Buggy,--,4-seat electric golf cart,2,Good,,,1,ea,2500,1500,1850,,Club Car,Tempo,,,White,,,,0.75,,Plant & Equipment,10
+,,,,,,Vehicles & Motorised Plant,Motorised Plant,Generator (Portable),--,"Portable petrol generator, 6.5kVA",2,Good,,,1,ea,750,520,560,,Honda,EU65iS,,,Red,,,,0.75,,Plant & Equipment,15
+,,,,,,Vehicles & Motorised Plant,Motorised Plant,Generator (Standby),--,"Standby diesel generator, 60kVA",2,Good,,,1,ea,2200,900,1250,,Cummins,C60 D5,,,Yellow,ATS panel included,,,0.75,,Plant & Equipment,20
+,,,,,,Vehicles & Motorised Plant,Motorised Plant,High-Pressure Cleaner,--,"Electric high-pressure washer, 2000 PSI",2,Good,,,1,ea,390,320,870,,KÃ¤rcher,HD 7/17 M,,,Yellow,,,,0.75,,Plant & Equipment,10
+,,,,,,Vehicles & Motorised Plant,Motorised Plant,Ride-on Sweeper,--,"Petrol ride-on sweeper, 850mm brush width",2,Good,,,1,ea,1550,1000,1300,,Tennant,S20,,,Green,,,,0.75,,Plant & Equipment,12
+,,,,,,Industrial,Power Tools,Angle Grinder,--,"115mm angle grinder, corded",2,Good,,,1,ea,280,100,130,,Makita,GA4530R,,,Blue,,,,0.75,,Plant & Equipment,10
+,,,,,,Industrial,Power Tools,Angle Grinder,--,"230mm angle grinder, corded",2,Good,,,1,ea,460,120,180,,Makita,GA9020,,,Blue,,,,0.75,,Plant & Equipment,10
+,,,,,,Industrial,Power Tools,Drill (Cordless),--,"18V cordless combi drill, 2Ã—5.0Ah",2,Good,,,1,ea,210,80,240,,Makita,DHP484,,,Blue,,,,0.75,,Plant & Equipment,8
+,,,,,,Industrial,Power Tools,Impact Driver (Cordless),--,"18V cordless impact driver, 2Ã—5.0Ah",2,Good,,,1,ea,170,80,210,,Makita,DTD172,,,Blue,,,,0.75,,Plant & Equipment,8
+,,,,,,Industrial,Power Tools,Circular Saw,--,"185mm circular saw, corded",2,Good,,,1,ea,350,240,250,,Makita,HS7601,,,Blue,,,,0.75,,Plant & Equipment,10
+,,,,,,Industrial,Power Tools,Jigsaw,--,"Top-handle jigsaw, corded",2,Good,,,1,ea,300,100,220,,Bosch,PST 900 PEL,,,Blue,,,,0.75,,Plant & Equipment,10
+,,,,,,Industrial,Power Tools,Reciprocating Saw,--,18V cordless reciprocating saw,2,Good,,,1,ea,450,100,280,,Milwaukee,M18 FHSZ,,,Red,,,,0.75,,Plant & Equipment,8
+,,,,,,Industrial,Power Tools,Rotary Hammer Drill,--,"SDS-Plus rotary hammer drill, 3-mode",2,Good,,,1,ea,380,100,320,,Bosch,GBH 2-28,,,Blue,,,,0.75,,Plant & Equipment,10
+,,,,,,Industrial,Power Tools,Random Orbital Sander,--,"125mm random orbital sander, corded",2,Good,,,1,ea,130,130,160,,Bosch,GEX 125-1 AE,,,Blue,,,,0.75,,Plant & Equipment,10
+,,,,,,Industrial,Power Tools,Bench Grinder,--,150mm double-ended bench grinder,2,Good,,,1,ea,400,200,320,,,,,,Grey,Mounted on workshop bench,,,0.75,,Plant & Equipment,15
+,,,,,,Industrial,Power Tools,Router,--,Variable-speed fixed-base router,2,Good,,,1,ea,200,200,280,,Makita,RP2301FC,,,Blue,,,,0.75,,Plant & Equipment,10
+,,,,,,Industrial,Power Tools,Heat Gun,--,"Variable-temperature heat gun, 2000W",2,Good,,,1,ea,260,80,240,,Bosch,GHG 23-66,,,Blue,,,,0.75,,Plant & Equipment,8
+,,,,,,Industrial,Measurement & Detection,Laser Level,--,Self-levelling cross-line laser level,2,Good,,,1,ea,120,80,130,,Bosch,GLL 3-80 CG,,,Blue,,,,0.75,,Plant & Equipment,10
+,,,,,,Industrial,Measurement & Detection,Thermal Imaging Camera,--,Handheld thermal imaging camera,2,Good,,,1,ea,220,100,180,,Flir,E8 Pro,,,Black,,,,0.75,,Plant & Equipment,10
+,,,,,,Industrial,Measurement & Detection,Gas Detector,--,"4-gas confined space detector, CO/H2S/O2/LEL",2,Good,,,1,ea,130,60,70,,BW Technologies,GasAlertMicro5,,,Yellow,Calibrated annually,,,0.75,,Plant & Equipment,10
+,,,,,,Industrial,Measurement & Detection,Noise Meter,--,Class 2 sound level meter,2,Good,,,1,ea,80,40,220,,,,,,Yellow,,,,0.75,,Plant & Equipment,10
+,,,,,,Industrial,Measurement & Detection,Multimeter,--,"True-RMS digital multimeter, CAT III",2,Good,,,1,ea,180,90,50,,Fluke,117,,,Yellow/Grey,,,,0.75,,Plant & Equipment,10
+,,,,,,Industrial,Measurement & Detection,Tachometer,--,Non-contact optical tachometer,2,Good,,,1,ea,160,50,30,,,,,,Black,,,,0.75,,Plant & Equipment,10
+,,,,,,Industrial,Workshop Equipment,Workbench,--,Heavy-duty steel workbench with vice,2,Good,,,1,ea,1800,750,900,,,,,,Grey,,,,0.75,,Plant & Equipment,25
+,,,,,,Industrial,Workshop Equipment,Tool Cabinet (Mobile),--,12-drawer mobile tool cabinet with castors,2,Good,,,1,ea,760,380,1030,,Sidchrome,,,,Red,,,,0.75,,Plant & Equipment,20
+,,,,,,Industrial,Workshop Equipment,Drill Press (Bench),--,"5-speed bench drill press, 350W",2,Good,,,1,ea,380,300,700,,,,,,Grey,,,,0.75,,Plant & Equipment,15
+,,,,,,Industrial,Workshop Equipment,Band Saw,--,Bench-top metal-cutting band saw,2,Good,,,1,ea,700,480,750,,,,,,Grey,,,,0.75,,Plant & Equipment,15
+,,,,,,Industrial,Workshop Equipment,Welding Machine (MIG),--,"MIG welder, 180A, gas/gasless",2,Good,,,1,ea,480,260,380,,Miller,Millermatic 211,,,Blue,,,,0.75,,Plant & Equipment,15
+,,,,,,Industrial,Workshop Equipment,Welding Machine (TIG),--,"TIG/MMA inverter welder, 200A",2,Good,,,1,ea,380,220,320,,Lincoln Electric,Aspect 200,,,Yellow,,,,0.75,,Plant & Equipment,15
+,,,,,,Industrial,Workshop Equipment,Air Compressor,--,"Belt-drive air compressor, 50L tank, 2.5HP",2,Good,,,1,ea,650,300,800,,,,,,Grey,,,,0.75,,Plant & Equipment,15
+,,,,,,Industrial,Workshop Equipment,Air Compressor,--,"Screw compressor, 11kW, 270L receiver",2,Good,,,1,ea,1600,700,1400,,Atlas Copco,GX7FF,,,Green,,,,0.75,,Plant & Equipment,15
+,,,,,,Industrial,Workshop Equipment,Industrial Vacuum,--,"Wet/dry industrial vacuum, 80L",2,Good,,,1,ea,500,500,1000,,Nilfisk,CFM-80,,,Yellow,,,,0.75,,Plant & Equipment,10
+,,,,,,Industrial,Workshop Equipment,Parts Washer,--,"Solvent parts washer, 75L, heated",2,Good,,,1,ea,900,600,900,,,,,,Grey,,,,0.75,,Plant & Equipment,15
+,,,,,,Industrial,Workshop Equipment,Hydraulic Press,--,"Shop press, 20-tonne H-frame",2,Good,,,1,ea,900,500,1800,,,,,,Red,,,,0.75,,Plant & Equipment,20
+,,,,,,Industrial,Workshop Equipment,Tyre Changer,--,Semi-automatic tyre changer,2,Good,,,1,ea,1200,800,1200,,Snap-on,EEWC500,,,Yellow,,,,0.75,,Plant & Equipment,20
+,,,,,,Industrial,Workshop Equipment,Wheel Balancer,--,Computer wheel balancer,2,Good,,,1,ea,1100,750,1200,,Snap-on,WB260,,,Yellow,,,,0.75,,Plant & Equipment,20
+,,,,,,Industrial,Materials Handling,Pallet Jack (Manual),--,"Hydraulic manual pallet jack, 2.5t",2,Good,,,1,ea,1500,540,1200,,Toyota,LHPM 250,,,Yellow,,,,0.75,,Plant & Equipment,15
+,,,,,,Industrial,Materials Handling,Platform Trolley,--,"Steel platform trolley, 300kg capacity",2,Good,,,1,ea,910,560,900,,,,,,Grey,,,,0.75,,Plant & Equipment,15
+,,,,,,Industrial,Materials Handling,Sack Trolley,--,"Steel sack trolley, 200kg, rubber wheels",2,Good,,,1,ea,490,230,1200,,,,,,Grey,,,,0.75,,Plant & Equipment,15
+,,,,,,Industrial,Materials Handling,Drum Trolley,--,"Drum trolley/tilter, galvanised, 250L",2,Good,,,1,ea,640,400,700,,,,,,Galvanised,,,,0.75,,Plant & Equipment,20
+,,,,,,Industrial,Materials Handling,Step Ladder,--,"Fibreglass step ladder, 150kg, 6-step",2,Good,,,1,ea,600,650,2100,,Bailey,FS13996,,,Yellow,Comply with AS/NZS 1892,,,0.75,,Plant & Equipment,15
+,,,,,,Industrial,Materials Handling,Extension Ladder,--,"Fibreglass extension ladder, 150kg, 6m",2,Good,,,1,ea,300,400,3000,,Bailey,FE50219,,,Yellow,Comply with AS/NZS 1892,,,0.75,,Plant & Equipment,15
+,,,,,,Industrial,Materials Handling,Stillage / Pallet Cage,--,"Steel mesh pallet cage, 1000L",2,Good,,,1,ea,1165,965,1000,,,,,,Galvanised,,,,0.75,,Plant & Equipment,20
+,,,,,,Industrial,Safety Equipment,Fire Extinguisher,--,"Dry powder extinguisher, 9kg, wall-bracket",2,Good,,,1,ea,180,180,620,,Chubb,,,,Red,Inspected 6-monthly per AS 1851,,,0.75,,Plant & Equipment,5
+,,,,,,Industrial,Safety Equipment,Fire Extinguisher,--,"CO2 extinguisher, 5kg, wall-bracket",2,Good,,,1,ea,180,180,620,,Chubb,,,,Red,Inspected 6-monthly per AS 1851,,,0.75,,Plant & Equipment,5
+,,,,,,Industrial,Safety Equipment,Fire Extinguisher,--,"Wet chemical extinguisher, 7L",2,Good,,,1,ea,180,180,620,,Chubb,,,,Red,For kitchen/cooking oil fires,,,0.75,,Plant & Equipment,5
+,,,,,,Industrial,Safety Equipment,Fire Hose Reel,--,"Swing-arm fire hose reel, 36m, wall-mount",2,Good,,,1,ea,500,250,700,,,,,,Red,,,,0.75,,Plant & Equipment,20
+,,,,,,Industrial,Safety Equipment,Safety Shower / Eyewash (Combined),--,Plumbed combined safety shower and eyewash,2,Good,,,1,ea,250,250,2200,,Speakman,SE-700,,,Green/Yellow,Tested weekly,,,0.75,,Plant & Equipment,20
+,,,,,,Industrial,Safety Equipment,Spill Kit,--,"General purpose spill kit, 90L",2,Good,,,1,ea,600,400,600,,,,,,Yellow,Contents per site emergency plan,,,0.75,,Plant & Equipment,3
+,,,,,,Industrial,Safety Equipment,First Aid Kit (Industrial),--,"Industrial first aid kit, 1â€“25 persons",2,Good,,,1,ea,480,200,380,,St John,,,,Green,Contents per WorkSafe requirements,,,0.75,,Plant & Equipment,3
+,,,,,,Industrial,Safety Equipment,Safety Cabinet (Flammable),--,"Flammable liquids storage cabinet, 250L, self-closing",2,Good,,,1,ea,900,460,1100,,Pratt,,,,Yellow,Comply with AS 1940,,,0.75,,Plant & Equipment,20
+,,,,,,Industrial,Safety Equipment,Safety Cabinet (Corrosive),--,"Corrosive substances storage cabinet, 100L",2,Good,,,1,ea,900,460,900,,Pratt,,,,White,Comply with AS/NZS 3833,,,0.75,,Plant & Equipment,20
